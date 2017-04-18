@@ -18,6 +18,7 @@ DEV='
 build-essential
 gdb
 gdbserver
+openssh-server
 '
 
 #Games for Linux
