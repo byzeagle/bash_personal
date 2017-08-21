@@ -14,6 +14,7 @@ vim
 
 # Tools for development
 # Enable remote development from Visual Studio
+# Optional "freebsd-buildutils", "bmake"
 DEV='
 build-essential
 gdb
