@@ -5,6 +5,7 @@
 PROGS='
 tmux
 htop
+atop
 mc
 tree 
 irssi
