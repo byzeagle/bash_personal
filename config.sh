@@ -16,6 +16,11 @@ vim
 # Tools for development
 # Enable remote development from Visual Studio
 # Optional "freebsd-buildutils", "bmake"
+# clang, clang++
+# icc (intel compiler)
+# valgrind
+# perf
+# linux-tools-common
 DEV='
 build-essential
 gdb
