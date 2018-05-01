@@ -2,6 +2,8 @@
 # A script to install necessary development tools and favorite console programs
 
 # Tools for regular use of terminal
+# Emacs
+# xedit
 PROGS='
 tmux
 htop
@@ -18,15 +20,21 @@ vim
 # Optional "freebsd-buildutils", "bmake"
 # clang, clang++
 # icc (intel compiler)
-# valgrind
-# perf
-# linux-tools-common
 DEV='
 build-essential
 gdb
 gdbserver
 openssh-server
 '
+
+# linux-tools-common
+# gprof
+# perf
+# likwid
+# PAPI
+# callgrind
+# valgrind
+PERF=''
 
 #Games for Linux
 FUN='
