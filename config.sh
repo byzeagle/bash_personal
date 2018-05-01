@@ -34,6 +34,7 @@ openssh-server
 # PAPI
 # callgrind
 # valgrind
+# systemtap
 PERF=''
 
 #Games for Linux
