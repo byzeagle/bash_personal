@@ -32,9 +32,9 @@ openssh-server
 # perf
 # likwid
 # PAPI
-# callgrind
-# valgrind
+# valgrind - callgrind, memcheck
 # systemtap
+# Vampir, MPI
 PERF=''
 
 #Games for Linux
