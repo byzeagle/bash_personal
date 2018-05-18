@@ -43,7 +43,10 @@ fortune
 cowsay
 '
 
-# Others: valgrind wireshark nmap
+# Others 
+# valgrind 
+# wireshark 
+# nmap
 ADDIT='
 splint
 '
