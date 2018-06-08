@@ -20,6 +20,7 @@ vim
 # Optional "freebsd-buildutils", "bmake"
 # clang, clang++
 # icc (intel compiler)
+# m4 - Unix Macro Processor
 DEV='
 build-essential
 gdb
