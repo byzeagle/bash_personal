@@ -48,6 +48,7 @@ cowsay
 # valgrind 
 # wireshark 
 # nmap
+# curl
 ADDIT='
 splint
 '
