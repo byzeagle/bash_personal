@@ -36,6 +36,7 @@ openssh-server
 # valgrind - callgrind, memcheck
 # systemtap
 # Vampir, MPI
+# mpiP
 PERF=''
 
 #Games for Linux
