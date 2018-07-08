@@ -13,6 +13,7 @@ tree
 irssi
 lynx 
 vim
+poppler-utils # PDF utilities, used for displaying pdfs with less from terminal.
 '
 
 # Tools for development
