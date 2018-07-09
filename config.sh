@@ -14,6 +14,7 @@ irssi
 lynx 
 vim
 poppler-utils # PDF utilities, used for displaying pdfs with less from terminal.
+aha # ANSI color to HTML converter, used to save colorful output from grep or ls to a file as html
 '
 
 # Tools for development
