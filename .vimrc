@@ -27,7 +27,6 @@ let mapleader="<Space>"
 set background=light
 colorscheme desert
 
-
 if has ("autocmd")
 	filetype plugin indent on
 endif 
