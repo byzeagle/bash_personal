@@ -4,6 +4,8 @@
 # Tools for regular use of terminal
 # Emacs
 # xedit
+# ed - line text editor
+# vim 
 PROGS='
 tmux
 htop
