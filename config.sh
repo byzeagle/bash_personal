@@ -44,17 +44,17 @@ openssh-server
 PERF=''
 
 # DEBUGGING TOOLS
-# strace
-# ltrace
-# xxd
-# hexdump
-# objdump
-# objcopy
-# readelf
-# strings [filename]
+# strace --> Display system calls made from an executable
+# ltrace --> Display library calls made from an executable
+# xxd --> Display a file as binary
+# hexdump --> Similar to xxd
+# objdump --> Elf format reader
+# objcopy 
+# readelf --> Elf format reader
+# strings [filename] --> display strings present in an executable
 # gdb
-# splint
-# gprof
+# splint --> static code checker
+# gprof --> Profiling tool
 # hexedit
 
 # Examples
