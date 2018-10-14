@@ -51,6 +51,7 @@ PERF=''
 # objdump
 # objcopy
 # readelf
+# strings [filename]
 # gdb
 # splint
 # gprof
