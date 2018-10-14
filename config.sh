@@ -39,6 +39,7 @@ openssh-server
 # PAPI
 # valgrind - callgrind, memcheck
 # KCacheGrind --> GUI to valgrind
+# graphviz --> Visualization Tool, can be used to visualize Clang AST
 # systemtap
 # Vampir, MPI
 # mpi
