@@ -42,6 +42,7 @@ openssh-server
 # Vampir, MPI
 # mpiP
 # strace
+# ltrace
 PERF=''
 
 #Games for Linux
