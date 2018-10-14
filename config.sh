@@ -40,15 +40,19 @@ openssh-server
 # valgrind - callgrind, memcheck
 # systemtap
 # Vampir, MPI
-# mpiP
+# mpi
+PERF=''
+
+# DEBUGGING TOOLS
 # strace
 # ltrace
-
-#xxd
-#hexdump
-#objdump
-
-PERF=''
+# xxd
+# hexdump
+# objdump
+# coredump
+# gdb
+# splint
+# gprof
 
 #Games for Linux
 FUN='
