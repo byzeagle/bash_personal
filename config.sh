@@ -38,6 +38,7 @@ openssh-server
 # likwid
 # PAPI
 # valgrind - callgrind, memcheck
+# KCacheGrind --> GUI to valgrind
 # systemtap
 # Vampir, MPI
 # mpi
