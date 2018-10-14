@@ -41,6 +41,7 @@ openssh-server
 # systemtap
 # Vampir, MPI
 # mpiP
+# strace
 PERF=''
 
 #Games for Linux
