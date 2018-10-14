@@ -43,6 +43,11 @@ openssh-server
 # mpiP
 # strace
 # ltrace
+
+#xxd
+#hexdump
+#objdump
+
 PERF=''
 
 #Games for Linux
