@@ -49,10 +49,15 @@ PERF=''
 # xxd
 # hexdump
 # objdump
-# coredump
+# objcopy
+# readelf
 # gdb
 # splint
 # gprof
+# hexedit
+
+# Examples
+# objdump -D -M intel file.bin | grep main.: -A20
 
 #Games for Linux
 FUN='
