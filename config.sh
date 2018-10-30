@@ -33,7 +33,7 @@ openssh-server
 '
 
 # Package Managers:
-# C++ : conan
+# C++ : conan, hunter
 # Python : pip
 # Nodejs : npm
 
