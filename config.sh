@@ -32,6 +32,11 @@ gdbserver
 openssh-server
 '
 
+# Package Managers:
+# C++ : conan
+# Python : pip
+# Nodejs : npm
+
 # linux-tools-common
 # gprof
 # perf
