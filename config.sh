@@ -7,6 +7,7 @@
 # ed - line text editor
 # vim 
 PROGS='
+wi
 tmux
 htop
 atop
