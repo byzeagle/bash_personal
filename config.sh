@@ -75,14 +75,18 @@ cowsay
 '
 
 # Others 
-# valgrind 
+# valgrind
 # wireshark 
 # nmap
 # curl
+# ping
+# traceroute
+# tracepath
+# mtr
 ADDIT='
 splint
 '
 
-CMD="sudo apt-get install -y $PROGS $DEV $FUN $ADDIT"
+CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
 $CMD
