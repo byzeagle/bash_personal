@@ -80,9 +80,9 @@ cowsay
 # nmap
 # curl
 # ping
-# traceroute
-# tracepath
-# mtr
+# traceroute --> Displays various hops towards the destination.
+# tracepath  --> Same
+# mtr --> Same
 ADDIT='
 splint
 '
