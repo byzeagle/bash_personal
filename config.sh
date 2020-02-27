@@ -61,6 +61,7 @@ PERF=''
 # readelf --> Elf format reader
 # strings [filename] --> display strings present in an executable
 # gdb
+# lldb
 # splint --> static code checker
 # gprof --> Profiling tool
 # hexedit
