@@ -91,9 +91,12 @@ splint
 ## C++ Web Frameworks
 # Drogon
 # Crow
+# Restbed
 
-## Java Framework
+## Java
 # Spring
+# maven
+# gradle
 
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
