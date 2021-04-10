@@ -101,6 +101,19 @@ splint
 
 ## Open source visualization and analytics software.
 # Grafana
+# Kibana
+
+## Web-stack
+# Postman
+# Soap
+# Rest
+# RPC
+# RMI
+# HaProxy
+# ElasticSearch
+# Oracle DB
+# Postgres
+# MongoDB
 
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
