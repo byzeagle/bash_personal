@@ -99,6 +99,9 @@ splint
 # maven
 # gradle
 
+## Open source visualization and analytics software.
+# Grafana
+
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
 $CMD
