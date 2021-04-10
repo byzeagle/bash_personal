@@ -88,6 +88,13 @@ ADDIT='
 splint
 '
 
+## C++ Web Frameworks
+# Drogon
+# Crow
+
+## Java Framework
+# Spring
+
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
 $CMD
