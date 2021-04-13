@@ -103,6 +103,11 @@ splint
 # Grafana
 # Kibana
 
+## ios Related
+# cocoapods
+# carthage
+# flutter
+
 ## Web-stack
 # Postman
 # Soap
