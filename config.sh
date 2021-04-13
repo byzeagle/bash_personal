@@ -120,6 +120,20 @@ splint
 # Postgres
 # MongoDB
 
+## Vision
+# OpenCV
+# Tesseract
+
+## Voip
+# opus
+# RTP
+# ortp
+# poll
+# UDP
+# libsoundio
+# alsa
+
+
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
 $CMD
