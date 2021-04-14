@@ -120,6 +120,7 @@ splint
 # Oracle DB
 # Postgres
 # MongoDB
+# Serialization --> Google Protocol Buffers --> Allows for serialization of structured data and use between different programming languages
 
 ## Vision
 # OpenCV
