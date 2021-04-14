@@ -122,6 +122,8 @@ splint
 # MongoDB
 # Serialization --> Google Protocol Buffers --> Allows for serialization of structured data and use between different programming languages
 
+# Message passing(OpenMPI) vs RPC vs REST vs Web services
+
 ## Vision
 # OpenCV
 # Tesseract
@@ -135,6 +137,10 @@ splint
 # libsoundio
 # alsa
 
+## Multithread
+# OpenMP
+# Pthreads
+# std::thread
 
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
