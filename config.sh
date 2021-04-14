@@ -102,6 +102,7 @@ splint
 ## Open source visualization and analytics software.
 # Grafana
 # Kibana
+# Prometheus
 
 ## ios Related
 # cocoapods
@@ -112,7 +113,7 @@ splint
 # Postman
 # Soap
 # Rest
-# RPC
+# RPC --> httpinvoker, RMI, gRPC
 # RMI
 # HaProxy
 # ElasticSearch
