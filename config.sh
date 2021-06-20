@@ -69,6 +69,8 @@ PERF=''
 # Examples
 # objdump -D -M intel file.bin | grep main.: -A20
 
+# ab -- Apache Bench
+
 #Games for Linux
 FUN='
 fortune
