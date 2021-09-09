@@ -20,6 +20,16 @@ poppler-utils # PDF utilities, used for displaying pdfs with less from terminal.
 aha # ANSI color to HTML converter, used to save colorful output from grep or ls to a file as html
 '
 
+# Databases
+# Apache Derby
+# Sqlite
+# MariaDB
+# MySql
+# Oracle
+# PostgreSql
+# ... (to be continued)
+
+
 # Tools for development
 # Enable remote development from Visual Studio
 # Optional "freebsd-buildutils", "bmake"
