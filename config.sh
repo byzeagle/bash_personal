@@ -136,8 +136,15 @@ splint
 # ElasticSearch
 # Oracle DB
 # Postgres
+# PgplSql
+# MariaDb
+# Dbeaver
 # MongoDB
 # Serialization --> Google Protocol Buffers --> Allows for serialization of structured data and use between different programming languages
+# Fiber (Go)
+# Gin   (Go)
+# curl
+# gRPC
 
 # Message passing(OpenMPI) vs RPC vs REST vs Web services
 
