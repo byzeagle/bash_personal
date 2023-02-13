@@ -174,6 +174,11 @@ splint
 # arp-scan
 # arp
 # curl
+# traceroute
+# tracepath
+# wireshark
+# tcpdump
+# mtr
 
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
