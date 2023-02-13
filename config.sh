@@ -166,6 +166,14 @@ splint
 # Pthreads
 # std::thread
 
+## Network Tools
+# telnet
+# ssh
+# nc (netcat)
+# nmap
+# arp-scan
+# arp
+
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
 $CMD
