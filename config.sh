@@ -173,6 +173,7 @@ splint
 # nmap
 # arp-scan
 # arp
+# curl
 
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
