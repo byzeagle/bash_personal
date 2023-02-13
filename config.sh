@@ -179,6 +179,7 @@ splint
 # wireshark
 # tcpdump
 # mtr
+# ping
 
 CMD="sudo apt install $PROGS $DEV $FUN $ADDIT"
 
