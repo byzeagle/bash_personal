@@ -7,7 +7,7 @@ I have a project called LinuxRealTimeVoipProgram in my repository. It sends udp 
 
 I tried doing the same thing using command line utilites.
 
-Although this setup works to a some extent, there is some lag in sound that I don't why it happens. However, it is still possible to get meaningful output.
+Although this setup works to a some extent, there is some lag in sound that I don't know why it happens. However, it is still possible to get meaningful output.
 
 I don't know if it is possible to fix the issue. A script is possible where UDP hole punching is used for a real P2P communication.
 
