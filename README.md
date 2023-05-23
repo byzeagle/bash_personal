@@ -1,7 +1,7 @@
 # bash_personal
 Bash Scripts Personal
 
-**About voicetransmission.sh**
+## About voicetransmission.sh
 
 I have a project called LinuxRealTimeVoipProgram in my repository. It sends udp packets carrying alsa's output across the network to the target machine where packets get rebuilt.
 
