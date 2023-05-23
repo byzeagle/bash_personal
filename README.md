@@ -11,6 +11,6 @@ Although this setup works to a some extent, there is some lag in sound that I do
 
 I don't know if it is possible to fix the issue. A script is possible where UDP hole punching is used for a real P2P communication.
 
-Benefit being truly P2P is that it is a lot harder to trace the communication for a 3rd party.
+The benefit of being truly P2P is that it is a lot harder to trace the communication for a 3rd party.
 
 I would like to hear your opinions about how communcation could be accomplised that does not lag by means of command line utilities.
