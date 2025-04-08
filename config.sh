@@ -145,6 +145,7 @@ splint
 # Gin   (Go)
 # curl
 # gRPC
+# ngrok --> Expose your local server to outside world (even without a static IP)
 
 # Message passing(OpenMPI) vs RPC vs REST vs Web services
 
